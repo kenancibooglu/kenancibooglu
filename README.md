@@ -1,6 +1,6 @@
 <h2> Hello there, I'm Kenan Cibooglu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZpNTV0dmV0NTU1bHphZWhwZGE4NW55YTgyeW40MTJkZ21vMGRqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5xtDarvIoOPycEv4Hza/giphy.gif" width='300' stle="border-radius: 50px"/> 
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZpNTV0dmV0NTU1bHphZWhwZGE4NW55YTgyeW40MTJkZ21vMGRqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5xtDarvIoOPycEv4Hza/giphy.gif" width='250'/> 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cibokenan24/)
 [![Medium](https://img.shields.io/badge/Medium-555555?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yolbirsurekbinbir)
