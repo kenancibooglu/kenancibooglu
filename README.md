@@ -2,8 +2,8 @@
 
 <img align="right" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width='150'/> 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cibokenan24/)) 
-[![Medium](https://img.shields.io/badge/Medium-555555?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yolbirsurekbinbir))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cibokenan24/)
+[![Medium](https://img.shields.io/badge/Medium-555555?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yolbirsurekbinbir)
 
 
 - For Front-Ent I use JavaScript, React, Redux, TailwindCSS, Material UI.
