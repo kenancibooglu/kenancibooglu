@@ -1,8 +1,9 @@
 <h2> Hello there, I'm Kenan Cibooglu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJ3aXpnNThrNGtoM2YwMnprMGhjbmNreWp2NWttM3NoZW91bTgxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LAYtLghPoJbU3keoHE/giphy-downsized-large.gif" width='150'/> 
+<img align="right" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width='150'/> 
 
-[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/muhammed-furkan-gulsen](https://www.linkedin.com/in/cibokenan24/)) [![Medium](https://img.shields.io/badge/Medium-555555?style=for-the-badge&logo=medium&logoColor=white)]([https://medium.com/@furkangulsen](https://medium.com/@yolbirsurekbinbir))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cibokenan24/)) 
+[![Medium](https://img.shields.io/badge/Medium-555555?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yolbirsurekbinbir))
 
 
 - For Front-Ent I use JavaScript, React, Redux, TailwindCSS, Material UI.
