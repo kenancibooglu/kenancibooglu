@@ -1,4 +1,4 @@
-<h2> Hello there, I'm Kenan Cibooglu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
+<h2> Hello there, I'm Kenan Cibooglu</h2>
 
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZpNTV0dmV0NTU1bHphZWhwZGE4NW55YTgyeW40MTJkZ21vMGRqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5xtDarvIoOPycEv4Hza/giphy.gif" width='200'/> 
 
