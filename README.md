@@ -1,4 +1,4 @@
-<h2> Hello there, I'm Kenan Cibooglu</h2>
+![image](https://github.com/kenancibooglu/kenancibooglu/assets/167245414/7d26d842-efc1-4709-91e1-708b7d04249b)<h2> Hello there, I'm Kenan Cibooglu</h2>
 
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZpNTV0dmV0NTU1bHphZWhwZGE4NW55YTgyeW40MTJkZ21vMGRqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5xtDarvIoOPycEv4Hza/giphy.gif" width='200'/> 
 
@@ -36,7 +36,7 @@ I upload every project I create here. If you want to help me gain more experienc
       <td>In this project, I made an e-commerce site where books are sold. In this project I created with TailwindCSS, we can see the total price and number of books added to the cart.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/kenancibooglu/Hastane-Yonetim-ve-Randevu-Sistemi"><b>🤖 Hastane-Yonetim-ve-Randevu-Sistemi </b></a></td>
+      <td><a href="https://github.com/kenancibooglu/Hastane-Yonetim-ve-Randevu-Sistemi"><b> 🪐 Hastane-Yonetim-ve-Randevu-Sistemi </b></a></td>
       <td>Bu projede C# ve SQL kullanarak bir hastane yönetim paneli geliştirdim. Panel, hastaların üye olabileceği ve randevu alabileceği bir platform sunar. Ayrıca hastalar, duyurular bölümünde sağlık hizmetleriyle ilgili bilgileri görebilirler.
 
 Sekreterler için özel bir giriş ve panel bulunmaktadır. Sekreterler, bu panel üzerinden randevu oluşturabilir, doktor ve branş bilgilerini güncelleyebilir veya yenilerini ekleyebilirler. Ayrıca sağlık kurumuyla ilgili duyuruları yönetebilirler.
