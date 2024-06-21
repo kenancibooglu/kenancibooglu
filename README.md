@@ -35,6 +35,14 @@ I upload every project I create here. If you want to help me gain more experienc
       <td><a href="https://github.com/kenancibooglu/E-Commerce-Project"><b>🤖 E-Commerce Project</b></a></td>
       <td>In this project, I made an e-commerce site where books are sold. In this project I created with TailwindCSS, we can see the total price and number of books added to the cart.</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/kenancibooglu/Hastane-Yonetim-ve-Randevu-Sistemi"><b>🤖 Hastane-Yonetim-ve-Randevu-Sistemi </b></a></td>
+      <td>Bu projede C# ve SQL kullanarak bir hastane yönetim paneli geliştirdim. Panel, hastaların üye olabileceği ve randevu alabileceği bir platform sunar. Ayrıca hastalar, duyurular bölümünde sağlık hizmetleriyle ilgili bilgileri görebilirler.
+
+Sekreterler için özel bir giriş ve panel bulunmaktadır. Sekreterler, bu panel üzerinden randevu oluşturabilir, doktor ve branş bilgilerini güncelleyebilir veya yenilerini ekleyebilirler. Ayrıca sağlık kurumuyla ilgili duyuruları yönetebilirler.
+
+Doktorlar,  randevuları görüntüleyebilir ve hastalar tarafından oluşturulan şikayetleri takip edebilirler.</td>
+    </tr>
    
   </tbody>
 </table>
