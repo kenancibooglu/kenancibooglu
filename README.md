@@ -1,23 +1,20 @@
 <h2> Hello there, I'm Kenan Cibooglu</h2>
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZpNTV0dmV0NTU1bHphZWhwZGE4NW55YTgyeW40MTJkZ21vMGRqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5xtDarvIoOPycEv4Hza/giphy.gif" width='200'/> 
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZpNTV0dmV0NTU1bHphZWhwZGE4NW55YTgyeW40MTJkZ21vMGRqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5xtDarvIoOPycEv4Hza/giphy.gif" width='200'/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cibokenan24/)
 [![Medium](https://img.shields.io/badge/Medium-555555?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yolbirsurekbinbir)
-
 
 - For Front-Ent I use JavaScript, React, Redux, TailwindCSS, Material UI.
 - For Back-End I am learning ASP.NET, Flask, Web Scraping, API and SQL.
 
 I upload every project I create here. If you want to help me gain more experience, please contact me.
 
-
 ## 👨‍💻 Skills
 
--  **Language:**  JavaScript, C#, Python
--  **Tools:**  React, ASP.NET, Flask, BeautifulSoup with Web Scraping, FastAPI
--  **Database:** SQL
-
+- **Language:** JavaScript, C#, Python
+- **Tools:** React, ASP.NET, Flask, BeautifulSoup with Web Scraping, FastAPI
+- **Database:** SQL
 
 ## ⭐️ Projects
 
@@ -41,11 +38,51 @@ I upload every project I create here. If you want to help me gain more experienc
 
 Sekreterler için özel bir giriş ve panel bulunmaktadır. Sekreterler, bu panel üzerinden randevu oluşturabilir, doktor ve branş bilgilerini güncelleyebilir veya yenilerini ekleyebilirler. Ayrıca sağlık kurumuyla ilgili duyuruları yönetebilirler.
 
-Doktorlar,  randevuları görüntüleyebilir ve hastalar tarafından oluşturulan şikayetleri takip edebilirler.</td>
-    </tr>
-   
+Doktorlar, randevuları görüntüleyebilir ve hastalar tarafından oluşturulan şikayetleri takip edebilirler.</td>
+</tr>
+
   </tbody>
 </table>
 
+<div style="display: flex; align-items: flex-start;">
+  <img src="./Front-End Engineer.png" alt="certification" width="600" style="margin-right: 20px;"/>
 
-<img src="./Front-End Engineer.png" alt="certification" width="600">
+  <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse;">
+    <thead>
+      <tr>
+        <th>Category</th>
+        <th>Topics</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Web Foundations</td>
+        <td>HTML, CSS</td>
+      </tr>
+      <tr>
+        <td>Improved Styling with CSS</td>
+        <td>Web Design</td>
+      </tr>
+      <tr>
+        <td>Building Interactive Websites</td>
+        <td>JavaScript, Web Design</td>
+      </tr>
+      <tr>
+        <td>Front-End Development</td>
+        <td>
+          JavaScript Syntax and Async  <td>HTTP Request </td> 
+          <td>Web Apps </td>
+          <td>React and Redux</td>
+          <td>Git and GitHub</td>
+        </td>
+      </tr>
+      <tr>
+        <td>Interview Prep</td>
+        <td>Data Structures
+        <td>Algorithms</td>
+        <td>Search and Graph Search</td>
+        <td> Algorithms</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
