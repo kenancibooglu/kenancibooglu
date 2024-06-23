@@ -50,8 +50,8 @@ Doktorlar, randevuları görüntüleyebilir ve hastalar tarafından oluşturulan
   <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse;">
     <thead>
       <tr>
-        <th>Category</th>
-        <th>Topics</th>
+        <th style="width: 30%;">Category</th>
+        <th style="width: 70%;">Topics</th>
       </tr>
     </thead>
     <tbody>
@@ -65,7 +65,8 @@ Doktorlar, randevuları görüntüleyebilir ve hastalar tarafından oluşturulan
       </tr>
       <tr>
         <td>Building Interactive Websites</td>
-        <td>JavaScript, Web Design</td>
+        <td>JavaScript</td>
+        <td>Web Design</td>
       </tr>
       <tr>
         <td>Front-End Development</td>
