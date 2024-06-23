@@ -48,4 +48,4 @@ Doktorlar,  randevuları görüntüleyebilir ve hastalar tarafından oluşturula
 </table>
 
 
-<img src="./Front-End Engineer.png" alt="certification" width="400">
+<img src="./Front-End Engineer.png" alt="certification" width="600">
