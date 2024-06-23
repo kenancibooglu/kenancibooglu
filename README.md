@@ -44,7 +44,7 @@ Doktorlar, randevuları görüntüleyebilir ve hastalar tarafından oluşturulan
   </tbody>
 </table>
 
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex; align-items: flex-start; border: 1px solid whitesmoke; border-radius: 10px;">
   <img src="./Front-End Engineer.png" alt="certification" width="600" style="margin-right: 20px;"/>
 
   <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse;">
@@ -81,7 +81,7 @@ Doktorlar, randevuları görüntüleyebilir ve hastalar tarafından oluşturulan
         <td>Interview Prep</td>
         <td>Data Structures
         <td>Algorithms</td>
-        <td>Search and Graph Search</td>
+        <td>Search and Graph Search Algorithms</td>
         <td> Algorithms</td>
       </tr>
     </tbody>
