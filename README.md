@@ -45,7 +45,7 @@ Doktorlar, randevuları görüntüleyebilir ve hastalar tarafından oluşturulan
 </table>
 
 <div style="display: flex; align-items: flex-start; border: 1px solid whitesmoke; border-radius: 10px; padding: 10px;">
-  <img src="./Front-End Engineer.png" alt="certification" width="600" style="margin-right: 20px; border-radius: 10px;"/>
+  <img src="./Front-End Engineer.png" alt="certification" width="800" style="margin-right: 20px; border-radius: 10px;"/>
 
   <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
     <thead>
