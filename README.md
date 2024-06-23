@@ -50,8 +50,8 @@ Doktorlar, randevuları görüntüleyebilir ve hastalar tarafından oluşturulan
   <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse;">
     <thead>
       <tr>
-        <th style="width: 30%;">Category</th>
-        <th style="width: 70%;">Topics</th>
+        <th>Category</th>
+        <th style="width: 100%;">Topics</th>
       </tr>
     </thead>
     <tbody>
