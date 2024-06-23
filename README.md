@@ -44,45 +44,40 @@ Doktorlar, randevuları görüntüleyebilir ve hastalar tarafından oluşturulan
   </tbody>
 </table>
 
-<div style="display: flex; align-items: flex-start; border: 1px solid whitesmoke; border-radius: 10px;">
-  <img src="./Front-End Engineer.png" alt="certification" width="600" style="margin-right: 20px;"/>
+<div style="display: flex; align-items: flex-start; border: 1px solid whitesmoke; border-radius: 10px; padding: 10px;">
+  <img src="./Front-End Engineer.png" alt="certification" width="600" style="margin-right: 20px; border-radius: 10px;"/>
 
-  <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse;">
+  <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
     <thead>
       <tr>
-        <th>Category</th>
-        <th style="width: 100%;">Topics</th>
+        <th style="border: 1px solid whitesmoke; border-radius: 10px 0 0 0;">Category</th>
+        <th style="border: 1px solid whitesmoke; border-radius: 0 10px 0 0;">Topics</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>Web Foundations</td>
-        <td>HTML, CSS</td>
+        <td style="border: 1px solid whitesmoke;">Web Foundations</td>
+        <td style="border: 1px solid whitesmoke;">HTML, CSS</td>
       </tr>
       <tr>
-        <td>Improved Styling with CSS</td>
-        <td>Web Design</td>
+        <td style="border: 1px solid whitesmoke;">Improved Styling with CSS</td>
+        <td style="border: 1px solid whitesmoke;">Web Design</td>
       </tr>
       <tr>
-        <td>Building Interactive Websites</td>
-        <td>JavaScript</td>
-        <td>Web Design</td>
+        <td style="border: 1px solid whitesmoke;">Building Interactive Websites</td>
+        <td style="border: 1px solid whitesmoke;">JavaScript, Web Design</td>
       </tr>
       <tr>
-        <td>Front-End Development</td>
-        <td>
-          JavaScript Syntax and Async  <td>HTTP Request </td> 
-          <td>Web Apps </td>
-          <td>React and Redux</td>
-          <td>Git and GitHub</td>
+        <td style="border: 1px solid whitesmoke;">Front-End Development</td>
+        <td style="border: 1px solid whitesmoke;">
+          JavaScript Syntax, Async JavaScript, HTTP Request, Web Apps, React and Redux, Git and GitHub
         </td>
       </tr>
       <tr>
-        <td>Interview Prep</td>
-        <td>Data Structures
-        <td>Algorithms</td>
-        <td>Search and Graph Search Algorithms</td>
-        <td> Algorithms</td>
+        <td style="border: 1px solid whitesmoke; border-radius: 0 0 0 10px;">Interview Prep</td>
+        <td style="border: 1px solid whitesmoke; border-radius: 0 0 10px 0;">
+          Data Structures, Algorithms, Search and Graph Search Algorithms
+        </td>
       </tr>
     </tbody>
   </table>
