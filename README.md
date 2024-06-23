@@ -50,8 +50,8 @@ Doktorlar, randevuları görüntüleyebilir ve hastalar tarafından oluşturulan
   <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
     <thead>
       <tr>
-        <th style="border: 1px solid whitesmoke; border-radius: 10px 0 0 0;">Category</th>
-        <th style="border: 1px solid whitesmoke; border-radius: 0 10px 0 0;">Topics</th>
+        <th style="border: 1px solid whitesmoke; border-radius: 10px 0 0 0;">Certificate Category</th>
+        <th style="border: 1px solid whitesmoke; border-radius: 0 10px 0 0;">Certificate Topics</th>
       </tr>
     </thead>
     <tbody>
