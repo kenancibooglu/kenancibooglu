@@ -13,8 +13,8 @@ I upload every project I create here. If you want to help me gain more experienc
 ## 👨‍💻 Skills
 
 - **Language:** JavaScript, C#, Python
-- **Tools:** React, ASP.NET, Flask, BeautifulSoup with Web Scraping, FastAPI
-- **Database:** SQL
+- **Tools:** React, ASP.NET, Flask
+- **Database:** Microsoft SQL Server, Access DB
 
 ## ⭐️ Projects
 
