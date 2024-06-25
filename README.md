@@ -6,7 +6,7 @@
 [![Medium](https://img.shields.io/badge/Medium-555555?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yolbirsurekbinbir)
 
 - For Front-Ent I use JavaScript, React, Redux, TailwindCSS, Material UI.
-- For Back-End I am learning ASP.NET, Flask, Web Scraping, API and SQL.
+- For Back-End I am learning ASP.NET, Flask and SQL.
 
 I upload every project I create here. If you want to help me gain more experience, please contact me.
 
@@ -14,7 +14,7 @@ I upload every project I create here. If you want to help me gain more experienc
 
 - **Language:** JavaScript, C#, Python
 - **Tools:** React, ASP.NET, Flask
-- **Database:** Microsoft SQL Server, Access DB
+- **Database:** Microsoft SQL Server
 
 ## ⭐️ Projects
 
