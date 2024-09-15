@@ -12,8 +12,8 @@ I upload every project I create here. If you want to help me gain more experienc
 
 ## 👨‍💻 Skills
 
-- **Language:** JavaScript, C#, Python
-- **Tools:** React, ASP.NET, Flask
+- **Language:** JavaScript, C#
+- **Tools:** React, ASP.NET
 - **Database:** Microsoft SQL Server
 
 ## ⭐️ Projects
