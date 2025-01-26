@@ -5,15 +5,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cibokenan24/)
 [![Medium](https://img.shields.io/badge/Medium-555555?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yolbirsurekbinbir)
 
-- For Front-Ent I use JavaScript, React, Redux, TailwindCSS, Material UI.
-- For Back-End I am learning ASP.NET, and SQL.
+- For Front-Ent I use HTML, CSS, JavaScript, React.
+- For Back-End I am learning ASP.NET MVC, SQL.
+- For Game Engine I use Unity
 
 I upload every project I create here. If you want to help me gain more experience, please contact me.
 
 ## 👨‍💻 Skills
 
 - **Language:** JavaScript, C#
-- **Tools:** React, ASP.NET
+- **Tools:** React, ASP.NET, Unity
 - **Database:** Microsoft SQL Server
 
 ## ⭐️ Projects
